@@ -1,0 +1,10 @@
+   #circle
+   {
+	  margin: 100px;
+      width: 100px;
+      height: 100px;
+      box-shadow: 0 0 0 25px rgb(255,000,000);
+      border:25px solid white;
+      border-radius: 100px;
+      background: blue;
+	}  	
